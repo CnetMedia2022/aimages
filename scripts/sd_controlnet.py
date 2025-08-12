@@ -10,7 +10,7 @@ stub = Stub("controlnet")
 
 TRANSFORMERS_CACHE = "/cache"
 
-
+#ahmet
 def set_scheduler(model, scheduler: str):
     from diffusers import (
         DDIMScheduler,
